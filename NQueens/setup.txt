@@ -1,0 +1,3 @@
+For this code, the board is represented by a list, which represents the columns (0 being the leftmost column, 1 being
+the next column and so on until n - 1). The number inside the list represents the row that the column is in, from 0 to
+n - 1, with -1 representing a blank.
